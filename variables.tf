@@ -52,3 +52,8 @@ variable "cidr_ipv4"{
     description = "This is the value for https port"
     type = string
 }
+
+variable "bastian-sg-name" {
+    description = "This is the value for bastion-sg-name"
+    type = string
+}
