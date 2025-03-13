@@ -47,3 +47,8 @@ variable "instance_type_medium" {
     description = "This is value for instance type medium"
     type        = string
 }
+
+variable "cidr_ipv4"{
+    description = "This is the value for https port"
+    type = string
+}

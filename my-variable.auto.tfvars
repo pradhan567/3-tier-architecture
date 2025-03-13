@@ -13,3 +13,4 @@ cidr_all = "0.0.0.0/0"
 ubuntu_ami = "ami-04b4f1a9cf54c11d0"
 
 instance_type_medium = "t2.medium"
+cidr_ipv4 = "53.0.0.0/8"
